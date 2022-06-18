@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Puzzle15</string>
+    <string name="shuffle">shuffle</string>
+    <string name="steps">Steps: 0</string>
+    <string name="start">Start</string>
+    <string name="exist">exist</string>
+    <string name="record">Record</string>
+    <string name="settings">settings</string>
+    <string name="time">time:</string>
+    <string name="steps1">steps</string>
+    <string name="about">about</string>
+    <string name="this_game_is_a_puzzle_15_game_where_you_have_to_sort_the_numbers_from_1_to_15_in_an_orderly_fashion_a_fun_and_brain_teaser_game_created_by_android_developer_murodullayev_muhammad">This game is a puzzle 15 game where you have to sort the numbers from 1 to 15 in an orderly fashion. A fun and brain teaser game. Created by Android developer, Murodullayev Muhammad.</string>
+    <string name="step">step: ~</string>
+    <string name="restart">restart</string>
+    <string name="ok">OK</string>
+</resources>
